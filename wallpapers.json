@@ -1,58 +1,40 @@
 {
    "wallpapers": [
       {
-         "author": "Nick Nice",
-         "url": "https://github.com/Aditya-1811/Creativity-json/blob/master/2017%20-%201.jpg?raw=true",
-         "name": "The Stary Sky",
-         "thumbnail": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch_thumb.jpg"
-      },
-      {
-         "author": "Nick Nice",
-         "url": "https://github.com/Aditya-1811/Creativity-json/blob/master/2017%20-%205.jpg?raw=true",
-         "name": "Yellow Sky",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
-      },
-      {
-         "author": "Nick Nice",
-         "url": "https://github.com/Aditya-1811/Creativity-json/blob/master/2017-04-09%2012.23.14%201.jpg?raw=true",
-         "name":" Buds",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
-      },
-      {
          "author": "Rutwik Patel",
-         "url": "https://github.com/Aditya-1811/Creativity-json/blob/master/@OsumWalls%20Dope%20Walls%20v90%20(7).png?raw=true",
+         "url": "https://raw.githubusercontent.com/Aditya-1811/Creativity-json/master/%40OsumWalls%20Dope%20Walls%20v90%20(7).png",
          "name": "Buildings",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/forest_one_thumb.jpg"
+         "thumbnail": "https://raw.githubusercontent.com/Aditya-1811/Creativity-json/master/%40OsumWalls%20Dope%20Walls%20v90%20(7).png"
       },
       {
          "author": "Rutwik Patel",
-         "url": "https://github.com/Aditya-1811/Creativity-json/blob/master/@OsumWalls%20Dope%20Walls%20v91%20(2).png?raw=true",
+         "url": "https://raw.githubusercontent.com/Aditya-1811/Creativity-json/master/%40OsumWalls%20Dope%20Walls%20v91%20(2).png",
          "name": "Lava",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/tree_farm_thumb.jpg"
+         "thumbnail": "https://raw.githubusercontent.com/Aditya-1811/Creativity-json/master/%40OsumWalls%20Dope%20Walls%20v91%20(2).png"
       },
       {
          "author":"Rutwik Patel",
-         "url":"https://github.com/Aditya-1811/Creativity-json/blob/master/@OsumWalls%20Dope%20Walls%20v91%20(9).png?raw=true",
+         "url":"https://raw.githubusercontent.com/Aditya-1811/Creativity-json/master/%40OsumWalls%20Dope%20Walls%20v91%20(9).png",
          "name":"Waves",
-         "thumbnail":"https://github.com/afollestad/polar_json/raw/master/tree_tops_thumb.jpg"
+         "thumbnail":"https://raw.githubusercontent.com/Aditya-1811/Creativity-json/master/%40OsumWalls%20Dope%20Walls%20v91%20(9).png"
       },
       {
          "author":"Rutwik Patel",
          "url":"https://github.com/Aditya-1811/Creativity-json/blob/master/@OsumWalls%20Dope%20Walls%20v92%20(15).png?raw=true",
          "name":"Lighter",
-         "thumbnail":"https://github.com/afollestad/polar_json/raw/master/tree_tops_thumb.jpg"
+         "thumbnail":"https://github.com/Aditya-1811/Creativity-json/blob/master/@OsumWalls%20Dope%20Walls%20v92%20(15).png?raw=true"
       }	,
       {
          "author":"Rutwik Patel",
-         "url":"https://github.com/Aditya-1811/Creativity-json/blob/master/@OsumWalls%20Random%2090348594731%20(1).png?raw=true",
+         "url":"https://raw.githubusercontent.com/Aditya-1811/Creativity-json/master/%40OsumWalls%20Random%2090348594731%20(1).png",
          "name":"Pink Building",
-         "thumbnail":"https://github.com/afollestad/polar_json/raw/master/tree_tops_thumb.jpg"
+         "thumbnail":"https://raw.githubusercontent.com/Aditya-1811/Creativity-json/master/%40OsumWalls%20Random%2090348594731%20(1).png"
       },
       {
          "author":"Rutwik Patel",
-         "url":"https://github.com/Aditya-1811/Creativity-json/blob/master/@OsumWalls%20Random%2090348594731%20(5).png?raw=true",
+         "url":"https://raw.githubusercontent.com/Aditya-1811/Creativity-json/master/%40OsumWalls%20Random%2090348594731%20(5).png",
          "name":"Blue Sky Building",
-         "thumbnail":"https://github.com/afollestad/polar_json/raw/master/tree_tops_thumb.jpg"
+         "thumbnail":"https://raw.githubusercontent.com/Aditya-1811/Creativity-json/master/%40OsumWalls%20Random%2090348594731%20(5).png"
       }
    ]
 }
