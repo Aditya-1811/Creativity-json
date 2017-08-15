@@ -2,104 +2,92 @@
    "wallpapers": [
       {
          "author": "Unsplash",
-         "url": "https://drive.google.com/uc?export=download&id=0B-upcFHAdU8TZkI5WkR0MFdidUU",
-         "name": "1",
-         "thumbnail": "https://github.com/Aditya-1811/Creativity-json/blob/master/1_tn.jpg?raw=true"
-      },
-      {
-         "author": "Unsplash",
          "url": "https://drive.google.com/uc?export=download&id=0B-upcFHAdU8TZ0NzTVVMSDhvN3M",
-         "name": "2",
+         "name": "1",
          "thumbnail": "https://github.com/Aditya-1811/Creativity-json/blob/master/2_tn.jpg?raw=true"
       },
       {
          "author": "Unsplash",
          "url": "https://drive.google.com/uc?export=download&id=0B-upcFHAdU8TbzZ6V3kwbExsWUk",
-         "name": "3",
+         "name": "2",
          "thumbnail": "https://github.com/Aditya-1811/Creativity-json/blob/master/3_tn.jpg?raw=true"
       },
       {
          "author": "Unsplash",
          "url": "https://drive.google.com/uc?export=download&id=0B-upcFHAdU8TWlpHb3hwWUQ0SEU",
-         "name": "4",
+         "name": "3",
          "thumbnail": "https://github.com/Aditya-1811/Creativity-json/blob/master/4_tn.jpg?raw=true"
       }	,
       {
          "author": "Unsplash",
          "url": "https://drive.google.com/uc?export=download&id=0B-upcFHAdU8TaGtqaWk1cjhyX0k",
-         "name": "5",
+         "name": "4",
          "thumbnail": "https://github.com/Aditya-1811/Creativity-json/blob/master/5_tn.jpg?raw=true"
       },
       {
          "author": "Unsplash",
          "url": "https://drive.google.com/uc?export=download&id=0B-upcFHAdU8TZUZYTEhzenl4UTg",
-         "name": "6",
+         "name": "5",
          "thumbnail": "https://github.com/Aditya-1811/Creativity-json/blob/master/6_tn.jpg?raw=true"
       },
       {
          "author": "Unsplash",
-         "url": "https://drive.google.com/uc?export=download&id=0B-upcFHAdU8TY0xJbjhBTXpGWDQ",
-         "name": "7",
-         "thumbnail": "https://github.com/Aditya-1811/Creativity-json/blob/master/7_tn.jpg?raw=true"
-      },
-      {
-         "author": "Unsplash",
          "url": "https://drive.google.com/uc?export=download&id=0B-upcFHAdU8TLUdTOXpWcnltZk0",
-         "name": "8",
+         "name": "6",
          "thumbnail": "https://github.com/Aditya-1811/Creativity-json/blob/master/8_tn.jpg?raw=true"
       },
       {
          "author": "Unsplash",
          "url": "https://drive.google.com/uc?export=download&id=0B-upcFHAdU8TMVJLVUs1S0YzSVE",
-         "name": "9",
+         "name": "7",
          "thumbnail": "https://github.com/Aditya-1811/Creativity-json/blob/master/9_tn.jpg?raw=true"
       },
       {
          "author": "Unsplash",
          "url": "https://drive.google.com/uc?export=download&id=0B-upcFHAdU8TMUJ6Rm1ScnpoN2s",
-         "name": "10",
+         "name": "8",
          "thumbnail":"https://github.com/Aditya-1811/Creativity-json/blob/master/10_tn.jpg?raw=true"
       },  
       {
          "author": "Unsplash",
          "url": "https://drive.google.com/uc?export=download&id=0B-upcFHAdU8TWmo1VzNKYkl5Mmc",
-         "name": "11",
+         "name": "9",
          "thumbnail":"https://github.com/Aditya-1811/Creativity-json/blob/Aditya-1811-patch-1/a1.jpg?raw=true"
       },
       {
          "author": "Unsplash",
          "url": "https://drive.google.com/uc?export=download&id=0B-upcFHAdU8TSGlPX1hDSDlicVU",
-         "name": "12",
+         "name": "10",
          "thumbnail":"https://github.com/Aditya-1811/Creativity-json/blob/Aditya-1811-patch-1/b1.jpg?raw=true"
       },
       {
          "author": "Unsplash",
          "url": "https://drive.google.com/uc?export=download&id=0B-upcFHAdU8TVmg3Q2xaMXJMWUU",
-         "name": "13",
+         "name": "11",
          "thumbnail":"https://github.com/Aditya-1811/Creativity-json/blob/Aditya-1811-patch-1/c1.jpg?raw=truec"
       },
       {
          "author": "Unsplash",
          "url": "https://drive.google.com/uc?export=download&id=0B-upcFHAdU8TODFuMWNXR2poMjg",
-         "name": "14",
+         "name": "12",
          "thumbnail":"https://github.com/Aditya-1811/Creativity-json/blob/Aditya-1811-patch-1/d1.jpg?raw=true"
       },  
       {
          "author": "Unsplash",
          "url": "https://drive.google.com/uc?export=download&id=0B-upcFHAdU8TVXNmdDYwOGk1N1k",
-         "name": "15",
+         "name": "13",
          "thumbnail":"https://github.com/Aditya-1811/Creativity-json/blob/Aditya-1811-patch-1/e1.jpg?raw=true"
       },
       {
          "author": "Unsplash",
          "url": "https://drive.google.com/uc?export=download&id=0B-upcFHAdU8TUFRZc19scTJSSUk",
-         "name": "16",
+         "name": "14",
          "thumbnail":"https://github.com/Aditya-1811/Creativity-json/blob/Aditya-1811-patch-1/f1.jpg?raw=trueE"
       },
       {
          "author": "Unsplash",
          "url": "https://drive.google.com/uc?export=download&id=0B-upcFHAdU8TR1pkOHowUUsweDA",
-         "name": "17",
+         "name": "15",
          "thumbnail":"https://github.com/Aditya-1811/Creativity-json/blob/Aditya-1811-patch-1/g1.jpg?raw=true"
       }
    ]
